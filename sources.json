@@ -1,66 +1,32 @@
 {
-	"about":"Keter Moyron Rivera Portafolio.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
-	"portfolio": [
-		{
-			"name": "Tomatin",
-			"desc": "Juego donde un tomate quiere escapar del campo",
-			"img": "tomatin.PNG",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		}
-	]
+	{
+		"about": "Keter Moyron Rivera Portafolio.",
+		"aboutimg": "https://img.itch.zone/aW1nLzMxMjU4MTAucG5n/100x100%23/RWZVni.png",
+		"portfolio": [
+			{
+				"name": "Tomatin",
+				"desc": "Juego donde un tomate quiere escapar del campo",
+				"img": "https://img.itch.zone/aW1nLzIzODYyNzYucG5n/315x250%23c/STnBLW.png",
+				"src": "https://keterm.itch.io/tomatin"
+			},
+			{
+				"name": "FireCat",
+				"desc": "Dos gatos bomberos al rescate de la ciudad de Mewtown",
+				"img": "https://img.itch.zone/aW1nLzI3NzM2OTkucG5n/315x250%23c/nKWDOn.png",
+				"src": "https://keterm.itch.io/firecat"
+			},
+			{
+				"name": "Pirates Adventure",
+				"desc": "Dos piratas quedan varados en una isla, ayudalos a reparar su barco",
+				"img": "https://img.itch.zone/aW1nLzI2MTA2OTkucG5n/315x250%23c/arV%2FgY.png",
+				"src": "https://angel-oc.itch.io/pirates-adventure"
+			},
+			{
+				"name": "El descenso a mis recuerdos",
+				"desc": "Logra salir de una mina abandonada y descubre sus misterios",
+				"img": "https://img.itch.zone/aW1nLzM1MTY4NTUucG5n/508x254%23mb/kfQGN6.png",
+				"src": "https://angel-oc.itch.io/el-descenso-a-mis-recuerdos"
+			}
+		]
+	}
 }
