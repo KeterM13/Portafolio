@@ -1,12 +1,12 @@
 {
 	"about": "Keter Moyron Rivera Portafolio.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
+	"aboutimg": "https://img.itch.zone/aW1nLzMxMjU4MTAucG5n/100x100%23/RWZVni.png",
 	"portfolio": [
 		{
 			"name": "Tomatin",
 			"desc": "Juego donde un tomate quiere escapar del campo",
 			"img": "https://img.itch.zone/aW1nLzIzODYyNzYucG5n/315x250%23c/STnBLW.png",
-			"src": "https://www.github.com"
+			"src": "https://keterm.itch.io/tomatin"
 		},
 		{
 			"name": "FireCat",
